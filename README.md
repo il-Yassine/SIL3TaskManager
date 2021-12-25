@@ -1,2 +1,0 @@
-# SIL3TaskManager
-projet
